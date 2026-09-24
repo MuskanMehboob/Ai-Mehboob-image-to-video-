@@ -1,0 +1,20 @@
+Build an AI image-to-video mobile app called “AI Mehboob”.
+
+The app should have a clean, modern and easy-to-use interface. Users can upload an image from their phone or computer, enter a text prompt describing the video they want, choose a video duration from 5 seconds, 10 seconds, 30 seconds, 1 minute, 3 minutes, or 5 minutes, and tap a “Generate Video” button.
+
+Include:
+- Image upload and preview
+- Text prompt box
+- Video duration selector
+- Generate Video button
+- Loading/progress screen while the video is being generated
+- Video preview player
+- Download Video button
+- Share Video button
+- My Videos/history section
+- Delete video option
+- Simple user profile/settings page
+
+Use a premium black and gold visual style. Make the app responsive for mobile and desktop. Give the app the name “AI Mehboob” and make the interface simple enough for beginners.
+
+Prepare the app structure so an AI image-to-video generation API can be connected later. Use clean navigation and clearly labeled buttons.
